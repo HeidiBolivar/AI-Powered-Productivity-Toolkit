@@ -1,6 +1,6 @@
 # Portfolio: AI-Powered Productivity Toolkit - Master Intelligent Workflows, Drive Exceptional Results.
 
-[![Vivaldi Browser Logo](https://vivaldi.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVivaldi_%2528web_browser%2529&psig=AOvVaw147Vo9rqbn6GegSHzrTBKQ&ust=1740438864527000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiUnpP22osDFQAAAAAdAAAAABAE))
+[![Vivaldi Browser Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVivaldi_%2528web_browser%2529&psig=AOvVaw147Vo9rqbn6GegSHzrTBKQ&ust=1740438864527000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiUnpP22osDFQAAAAAdAAAAABAE)
 (https://vivaldi.com/en/download/)
 
 **Master Intelligent Workflows: This AI-powered toolkit delivers unprecedented productivity and drives exceptional results in today's fast-paced professional landscape.**
