@@ -172,7 +172,7 @@ DeepL: Renowned for world-class AI translation accuracy and writing enhancement,
 
 ## 8. STORM: AI-Powered Academic Research Assistant (Oxford - Your Credible Research Ally for Scholarly Inquiry)
 
-[![STORM Logo](https://media.licdn.com/dms/image/C4E0BAQGwgq7459S4IA/company-logo_200_200/0/1671139954898?e=2147483648&v=beta&t=lE-R0-e-h0o8Zp_mR0gX64aV_q_Uu2aFzB99t_5b_V8)](storm.genie.stanford.edu/)
+[![STORM Logo](https://storm.genie.stanford.edu)](https://storm.genie.stanford.edu)
 
 STORM (University of Oxford): Your AI-powered academic research assistant, navigating the complexities of scholarly information with credibility and citation-backed insights.
 
@@ -193,7 +193,7 @@ STORM (University of Oxford): Your AI-powered academic research assistant, navig
 
 ## 9. Copilot: Your Quick & Efficient AI Assistant (Instant Answers at Your Fingertips for Daily Productivity)
 
-[![Copilot Logo](https://i.imgur.com/9Y06VvQ.png)](https://copilot.microsoft.com/)
+[![Copilot Logo](https://play-lh.googleusercontent.com/p8R1lAZI5_WCOzmvBYnOQasCWcjc9d2vM7z4PaVku8b9AfxGhqQqM0ldJ8KULHblVj-g)](https://copilot.microsoft.com/)
 
 Copilot: Your go-to AI assistant, seamlessly integrated into Vivaldi, delivering instant, straightforward answers and essential information for everyday productivity boosts.
 
@@ -214,7 +214,7 @@ Copilot: Your go-to AI assistant, seamlessly integrated into Vivaldi, delivering
 
 ## 10. Google AI Studio: Direct Access to Cutting-Edge AI (Your Gateway to Next-Gen AI Exploration)
 
-[![Google AI Studio Logo](https://i.imgur.com/4rZ0c7V.png)](https://makersuite.google.com/app/home)
+[![Google AI Studio Logo](https://cdn-1.webcatalog.io/catalog/google-ai-studio/google-ai-studio-icon-filled-256.png?v=1714782928979)](https://aistudio.google.com/)
 
 Google AI Studio: Your direct portal to Google's most advanced AI models, enabling hands-on experimentation with cutting-edge AI technology directly within your browser.
 
@@ -234,7 +234,7 @@ Google AI Studio: Your direct portal to Google's most advanced AI models, enabli
 
 ## 11. DeepSeek: Fast & Efficient AI for Quick Insights (Your Agile Information Partner for Rapid Results)
 
-[![DeepSeek Logo](https://i.imgur.com/9Y06VvQ.png)](https://deepseek.ai/product/deepseek-chat)
+[![DeepSeek Logo](https://play-lh.googleusercontent.com/d2zqBFBEymSZKaVg_dRo1gh3hBFn7_Kl9rO74xkDmnJeLgDW0MoJD3cUx0QzZN6jdsg=w240-h480-rw)](https://www.deepseek.com/)
 
 DeepSeek: A high-velocity AI model from China, integrated into Vivaldi, offering a fast and efficient AI partner for rapid information retrieval and immediate insights.
 
@@ -255,7 +255,7 @@ DeepSeek: A high-velocity AI model from China, integrated into Vivaldi, offering
 
 ## 12. Hugging Face - Chats & Assistants: AI Playground for Diverse Models (Your Open-Source AI Exploration Hub)
 
-[![Hugging Face Logo](https://i.imgur.com/4rZ0c7V.png)](https://huggingface.co/chat/)
+[![Hugging Face Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcobusgreyling.medium.com%2Fhuggingchat-from-huggingface-is-an-open-source-ai-chat-interface-9be3b0e09b79&psig=AOvVaw34dkHavi0hX16HytTnmXWg&ust=1740442415659000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi8sbGD24sDFQAAAAAdAAAAABAE)](https://huggingface.co/chat/)
 
 Hugging Face - Chats & Assistants: Your integrated playground within Vivaldi to explore and interact with a vast, diverse ecosystem of AI language models and open-source innovation.
 
@@ -276,7 +276,7 @@ Hugging Face - Chats & Assistants: Your integrated playground within Vivaldi to 
 
 ## 13. Pinokio / LM Studio: Secure & Controlled Local AI (Your On-Premise AI Powerhouse for Data Privacy)
 
-[![Pinokio / LM Studio Logo](https://i.imgur.com/9Y06VvQ.png)](https://pinokio.computer/) & [LM Studio](https://lmstudio.ai/)
+[![Pinokio / LM Studio Logo](https://pinokio.computer)](https://program.pinokio.computer/#/?id=install) & [LM Studio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb33Xqrc_EPvPU7leZFwZHUh1lKfvHzkBvzg&s)(https://lmstudio.ai)
 
 Pinokio & LM Studio: Your powerful and secure on-premise AI solution for managing and executing AI language models locally, ensuring data privacy and complete control over sensitive information.
 
