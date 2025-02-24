@@ -276,7 +276,7 @@ Hugging Face - Chats & Assistants: Your integrated playground within Vivaldi to 
 
 ## 13. [Pinokio](https://program.pinokio.computer/#/?id=install) / [LM Studio](https://lmstudio.ai): Secure & Controlled Local AI (Your On-Premise AI Powerhouse for Data Privacy)
 
-![image](img/pinokioLogo.png) & ![image](img/LMstudio.jpeg)
+![image](img/pinokioLogo.png) & ![image](img/LMStudio.jpeg)
 
 Pinokio & LM Studio: Your powerful and secure on-premise AI solution for managing and executing AI language models locally, ensuring data privacy and complete control over sensitive information.
 
