@@ -1,7 +1,6 @@
 # Portfolio: AI-Powered Productivity Toolkit - Master Intelligent Workflows, Drive Exceptional Results.
 
-[![Vivaldi Browser Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVivaldi_%2528web_browser%2529&psig=AOvVaw147Vo9rqbn6GegSHzrTBKQ&ust=1740438864527000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiUnpP22osDFQAAAAAdAAAAABAE)
-(https://vivaldi.com/en/download/)
+
 
 **Master Intelligent Workflows: This AI-powered toolkit delivers unprecedented productivity and drives exceptional results in today's fast-paced professional landscape.**
 
@@ -16,9 +15,10 @@ Ready to revolutionize your team's workflows with AI-driven productivity? Connec
 
 ---
 
-## 1. Vivaldi Browser: AI-Powered Productivity Ecosystem (Your Central Workflow Command Center)
+## 1. [Vivaldi Browser](https://vivaldi.com/en/download/): AI-Powered Productivity Ecosystem (Your Central Workflow Command Center)
 
-[![Vivaldi Browser Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVivaldi_%2528web_browser%2529&psig=AOvVaw3ynwbbRYaMyzl2ry4Noicd&ust=1740440703396000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDGioD92osDFQAAAAAdAAAAABAE)
+![image](img/VivaldiLogo.png)
+
 
 Vivaldi: My core "Super App" for productivity.  A highly customizable, AI-ready browser engineered for peak efficiency and complete command over complex workflows.
 
@@ -44,9 +44,9 @@ Vivaldi: My core "Super App" for productivity.  A highly customizable, AI-ready 
 
 ---
 
-## 2. Summarize and Translate with Gemini: AI-Powered Video Insights (Accelerated Knowledge Acquisition)
+## 2. [Summarize and Translate with Gemini](https://chromewebstore.google.com/detail/resumir-y-traducir-con-ge/hmdcbbbdmfapkpdaganadiihfmdnpngi): AI-Powered Video Insights (Accelerated Knowledge Acquisition)
 
-[![Summarize and Translate with Gemini Logo]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ciciai.com%2Fbrowser-extension%2Flanding&psig=AOvVaw37AQSJY6I42AvuFt7GAzZ-&ust=1740440884731000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj5r9f92osDFQAAAAAdAAAAABAE](https://lh3.googleusercontent.com/BFLR-OhY2gDsDFzkcTpn2jqYIQsKHz2e1Vyjftr-fpcPNiFPJoazeSOxFW-BQCtntx9Qz5YRxCDgOjxL0GBLLmePbw=s60))]([https://chromewebstore.google.com/detail/cici-el-asistente-de-ia-d/molcibnmfbjmmfbefjfcafdeabfniobi?hl=en](https://chromewebstore.google.com/detail/resumir-y-traducir-con-ge/hmdcbbbdmfapkpdaganadiihfmdnpngi)).
+![image](img/Gemini.png)
 
 Summarize Gemini: Leveraging Google's Gemini AI for instant, concise YouTube video summaries, maximizing information intake in minimal time.
 
@@ -65,9 +65,9 @@ Summarize Gemini: Leveraging Google's Gemini AI for instant, concise YouTube vid
 
 ---
 
-## 3. Cici, your AI browser assistant: Integrated AI Copilot for Enhanced Web Interaction (Contextual Workflow Enhancement)
+## 3. [Cici, your AI browser assistant](https://chromewebstore.google.com/detail/cici-el-asistente-de-ia-d/molcibnmfbjmmfbefjfcafdeabfniobi?hl=en): Integrated AI Copilot for Enhanced Web Interaction (Contextual Workflow Enhancement)
 
-[![Cici, your AI browser assistant Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ciciai.com%2Fbrowser-extension%2Flanding&psig=AOvVaw37AQSJY6I42AvuFt7GAzZ-&ust=1740440884731000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj5r9f92osDFQAAAAAdAAAAABAE)](https://chromewebstore.google.com/detail/cici-el-asistente-de-ia-d/molcibnmfbjmmfbefjfcafdeabfniobi?hl=en).
+![image](img/Cici.png)
 
 Cici: Your deeply integrated AI copilot transforming your browser into a contextually aware, intelligent workspace for seamless web interaction.
 
@@ -86,9 +86,9 @@ Cici: Your deeply integrated AI copilot transforming your browser into a context
 
 ---
 
-## 4. Monica: AI-Powered Mind Mapping for Visualizing Insights (Strategic Knowledge Visualization)
+## 4. [Monica](https://monica.im/tools/ai-mind-map-maker): AI-Powered Mind Mapping for Visualizing Insights (Strategic Knowledge Visualization)
 
-[![Monica Logo](https://assets.monica.im/tools-web/_next/static/media/monicaLogo.83e0ae18.png)](https://monica.im/tools/ai-mind-map-maker)
+![image](img/monicaLogo.png)
 
 Monica: A powerful AI tool transforming dense information into clear, visually structured mind maps, enabling rapid insight extraction and strategic analysis.
 
@@ -107,9 +107,9 @@ Monica: A powerful AI tool transforming dense information into clear, visually s
 
 ---
 
-## 5. Perplexity: AI-Powered Research Engine for Deep Web Insights (Data-Driven Research Excellence)
+## 5. [Perplexity](https://www.perplexity.ai): AI-Powered Research Engine for Deep Web Insights (Data-Driven Research Excellence)
 
-[![Perplexity Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fiaperfecta.com%2Fperplexity%2F&psig=AOvVaw1sDnAj-RbyJMyP78KWt6mD&ust=1740441812669000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjVz5KB24sDFQAAAAAdAAAAABAE)](https://www.perplexity.ai)
+![image](img/perplexitylogo.png)
 
 Perplexity: An AI-driven research engine specifically designed for deep web exploration and rapid, verifiable information retrieval, ensuring data integrity and source credibility.
 
@@ -128,9 +128,9 @@ Perplexity: An AI-driven research engine specifically designed for deep web expl
 
 ---
 
-## 6. Napkin: AI-Powered Diagramming for Visual Textualization (Impactful Visual Communication)
+## 6. [Napkin](https://www.napkin.ai): AI-Powered Diagramming for Visual Textualization (Impactful Visual Communication)
 
-[![Napkin Logo](https://www.napkin.ai)](https://www.napkin.ai)
+![image](img/Napking logo.png)
 
 Napkin: An innovative AI tool that dynamically transforms text into compelling diagrams, providing powerful visual representations of complex information and ideas for enhanced communication.
 
@@ -149,9 +149,9 @@ Napkin: An innovative AI tool that dynamically transforms text into compelling d
 
 ---
 
-## 7. DeepL: AI-Powered Translator & Writing Enhancer (Global Communication Excellence)
+## 7. [DeepL](https://www.deepl.com/en/translator): AI-Powered Translator & Writing Enhancer (Global Communication Excellence)
 
-[![DeepL Logo](https://www.magnolia-cms.com/dam/jcr:1782b612-0f82-4162-b006-5d2326e6188d/DeepL_logo_square.png)](https://www.deepl.com/en/translator)
+![image](img/DeepL_logo_square.png)
 
 DeepL: Renowned for world-class AI translation accuracy and writing enhancement, unlocking seamless multilingual communication and polished content creation.
 
@@ -170,9 +170,9 @@ DeepL: Renowned for world-class AI translation accuracy and writing enhancement,
 
 ---
 
-## 8. STORM: AI-Powered Academic Research Assistant (Oxford - Your Credible Research Ally for Scholarly Inquiry)
+## 8. [STORM](https://storm.genie.stanford.edu): AI-Powered Academic Research Assistant (Oxford - Your Credible Research Ally for Scholarly Inquiry)
 
-[![STORM Logo](https://storm.genie.stanford.edu)](https://storm.genie.stanford.edu)
+![image](img/StormLogo.png)
 
 STORM (University of Oxford): Your AI-powered academic research assistant, navigating the complexities of scholarly information with credibility and citation-backed insights.
 
@@ -191,9 +191,9 @@ STORM (University of Oxford): Your AI-powered academic research assistant, navig
 
 ---
 
-## 9. Copilot: Your Quick & Efficient AI Assistant (Instant Answers at Your Fingertips for Daily Productivity)
+## 9. [Copilot](https://copilot.microsoft.com/): Your Quick & Efficient AI Assistant (Instant Answers at Your Fingertips for Daily Productivity)
 
-[![Copilot Logo](https://play-lh.googleusercontent.com/p8R1lAZI5_WCOzmvBYnOQasCWcjc9d2vM7z4PaVku8b9AfxGhqQqM0ldJ8KULHblVj-g)](https://copilot.microsoft.com/)
+![image](img/CopilotLogo.png)
 
 Copilot: Your go-to AI assistant, seamlessly integrated into Vivaldi, delivering instant, straightforward answers and essential information for everyday productivity boosts.
 
@@ -212,9 +212,9 @@ Copilot: Your go-to AI assistant, seamlessly integrated into Vivaldi, delivering
 
 ---
 
-## 10. Google AI Studio: Direct Access to Cutting-Edge AI (Your Gateway to Next-Gen AI Exploration)
+## 10. [Google AI Studio](https://aistudio.google.com/): Direct Access to Cutting-Edge AI (Your Gateway to Next-Gen AI Exploration)
 
-[![Google AI Studio Logo](https://cdn-1.webcatalog.io/catalog/google-ai-studio/google-ai-studio-icon-filled-256.png?v=1714782928979)](https://aistudio.google.com/)
+![image](img/google-ai-studioLogo.png)
 
 Google AI Studio: Your direct portal to Google's most advanced AI models, enabling hands-on experimentation with cutting-edge AI technology directly within your browser.
 
@@ -232,9 +232,9 @@ Google AI Studio: Your direct portal to Google's most advanced AI models, enabli
 
 ---
 
-## 11. DeepSeek: Fast & Efficient AI for Quick Insights (Your Agile Information Partner for Rapid Results)
+## 11. [DeepSeek](https://www.deepseek.com/): Fast & Efficient AI for Quick Insights (Your Agile Information Partner for Rapid Results)
 
-[![DeepSeek Logo](https://play-lh.googleusercontent.com/d2zqBFBEymSZKaVg_dRo1gh3hBFn7_Kl9rO74xkDmnJeLgDW0MoJD3cUx0QzZN6jdsg=w240-h480-rw)](https://www.deepseek.com/)
+![image](img/Deepseek.png)
 
 DeepSeek: A high-velocity AI model from China, integrated into Vivaldi, offering a fast and efficient AI partner for rapid information retrieval and immediate insights.
 
@@ -253,9 +253,9 @@ DeepSeek: A high-velocity AI model from China, integrated into Vivaldi, offering
 
 ---
 
-## 12. Hugging Face - Chats & Assistants: AI Playground for Diverse Models (Your Open-Source AI Exploration Hub)
+## 12. [Hugging Face](https://huggingface.co/chat/) - Chats & Assistants: AI Playground for Diverse Models (Your Open-Source AI Exploration Hub)
 
-[![Hugging Face Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcobusgreyling.medium.com%2Fhuggingchat-from-huggingface-is-an-open-source-ai-chat-interface-9be3b0e09b79&psig=AOvVaw34dkHavi0hX16HytTnmXWg&ust=1740442415659000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi8sbGD24sDFQAAAAAdAAAAABAE)](https://huggingface.co/chat/)
+![image](img/Huggingfacechat.png)
 
 Hugging Face - Chats & Assistants: Your integrated playground within Vivaldi to explore and interact with a vast, diverse ecosystem of AI language models and open-source innovation.
 
@@ -274,9 +274,9 @@ Hugging Face - Chats & Assistants: Your integrated playground within Vivaldi to 
 
 ---
 
-## 13. Pinokio / LM Studio: Secure & Controlled Local AI (Your On-Premise AI Powerhouse for Data Privacy)
+## 13. [Pinokio](https://program.pinokio.computer/#/?id=install) / [LM Studio](https://lmstudio.ai): Secure & Controlled Local AI (Your On-Premise AI Powerhouse for Data Privacy)
 
-[![Pinokio / LM Studio Logo](https://pinokio.computer)](https://program.pinokio.computer/#/?id=install) & [LM Studio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb33Xqrc_EPvPU7leZFwZHUh1lKfvHzkBvzg&s)(https://lmstudio.ai)
+![image](img/pinokioLogo.png) & ![image](img/LMstudio.jpeg)
 
 Pinokio & LM Studio: Your powerful and secure on-premise AI solution for managing and executing AI language models locally, ensuring data privacy and complete control over sensitive information.
 
@@ -297,7 +297,7 @@ Pinokio & LM Studio: Your powerful and secure on-premise AI solution for managin
 
 ## 14. Typing Text Tools: AI-Powered Input Optimization & Writing Enhancement (Communication Workflow Mastery)
 
-[![Typing Tools Icon](https://img.freepik.com/vector-premium/icono-teclado-dibujos-animados-simple_576934-21.jpg)](https://www.google.com/search?q=typing+tools)
+![image](img/typing.png)
 
 Typing Text Tools: A curated suite of AI-powered tools meticulously selected to enhance your writing process and optimize text input, directly within your daily workflow for communication mastery.
 
