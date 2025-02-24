@@ -1,6 +1,7 @@
 # Portfolio: AI-Powered Productivity Toolkit - Master Intelligent Workflows, Drive Exceptional Results.
 
-[![Vivaldi Browser Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Vivaldi_browser_logo.svg/1200px-Vivaldi_browser_logo.svg.png)](https://vivaldi.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVivaldi_%2528web_browser%2529&psig=AOvVaw147Vo9rqbn6GegSHzrTBKQ&ust=1740438864527000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiUnpP22osDFQAAAAAdAAAAABAE))
+[![Vivaldi Browser Logo](https://vivaldi.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVivaldi_%2528web_browser%2529&psig=AOvVaw147Vo9rqbn6GegSHzrTBKQ&ust=1740438864527000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiUnpP22osDFQAAAAAdAAAAABAE))
+(https://vivaldi.com/en/download/)
 
 **Master Intelligent Workflows: This AI-powered toolkit delivers unprecedented productivity and drives exceptional results in today's fast-paced professional landscape.**
 
@@ -17,7 +18,7 @@ Ready to revolutionize your team's workflows with AI-driven productivity? Connec
 
 ## 1. Vivaldi Browser: AI-Powered Productivity Ecosystem (Your Central Workflow Command Center)
 
-[![Vivaldi Browser Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Vivaldi_browser_logo.svg/1200px-Vivaldi_browser_logo.svg.png)](https://vivaldi.com/)
+[![Vivaldi Browser Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVivaldi_%2528web_browser%2529&psig=AOvVaw3ynwbbRYaMyzl2ry4Noicd&ust=1740440703396000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDGioD92osDFQAAAAAdAAAAABAE)
 
 Vivaldi: My core "Super App" for productivity.  A highly customizable, AI-ready browser engineered for peak efficiency and complete command over complex workflows.
 
@@ -45,7 +46,7 @@ Vivaldi: My core "Super App" for productivity.  A highly customizable, AI-ready 
 
 ## 2. Summarize and Translate with Gemini: AI-Powered Video Insights (Accelerated Knowledge Acquisition)
 
-[![Summarize and Translate with Gemini Logo](https://i.imgur.com/9Y06VvQ.png)](https://chromewebstore.google.com/detail/summarize-and-translate-w/khgeefjplebgjkhfgpcfjdagfhjlncmn)
+[![Summarize and Translate with Gemini Logo]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ciciai.com%2Fbrowser-extension%2Flanding&psig=AOvVaw37AQSJY6I42AvuFt7GAzZ-&ust=1740440884731000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj5r9f92osDFQAAAAAdAAAAABAE](https://lh3.googleusercontent.com/BFLR-OhY2gDsDFzkcTpn2jqYIQsKHz2e1Vyjftr-fpcPNiFPJoazeSOxFW-BQCtntx9Qz5YRxCDgOjxL0GBLLmePbw=s60))]([https://chromewebstore.google.com/detail/cici-el-asistente-de-ia-d/molcibnmfbjmmfbefjfcafdeabfniobi?hl=en](https://chromewebstore.google.com/detail/resumir-y-traducir-con-ge/hmdcbbbdmfapkpdaganadiihfmdnpngi)).
 
 Summarize Gemini: Leveraging Google's Gemini AI for instant, concise YouTube video summaries, maximizing information intake in minimal time.
 
@@ -66,7 +67,7 @@ Summarize Gemini: Leveraging Google's Gemini AI for instant, concise YouTube vid
 
 ## 3. Cici, your AI browser assistant: Integrated AI Copilot for Enhanced Web Interaction (Contextual Workflow Enhancement)
 
-[![Cici, your AI browser assistant Logo](https://www.ciciai.com/static/media/cici_logo.29560a07.svg)](https://chromewebstore.google.com/detail/cici-ai-browser-assistant/ajiejhhjgbppjfhckdkepemmlgkgjakh)
+[![Cici, your AI browser assistant Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ciciai.com%2Fbrowser-extension%2Flanding&psig=AOvVaw37AQSJY6I42AvuFt7GAzZ-&ust=1740440884731000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj5r9f92osDFQAAAAAdAAAAABAE)](https://chromewebstore.google.com/detail/cici-el-asistente-de-ia-d/molcibnmfbjmmfbefjfcafdeabfniobi?hl=en).
 
 Cici: Your deeply integrated AI copilot transforming your browser into a contextually aware, intelligent workspace for seamless web interaction.
 
@@ -87,7 +88,7 @@ Cici: Your deeply integrated AI copilot transforming your browser into a context
 
 ## 4. Monica: AI-Powered Mind Mapping for Visualizing Insights (Strategic Knowledge Visualization)
 
-[![Monica Logo](https://napkin.ai/icons/napkin-logo.svg)](https://monica.im/)
+[![Monica Logo](https://assets.monica.im/tools-web/_next/static/media/monicaLogo.83e0ae18.png)](https://monica.im/tools/ai-mind-map-maker)
 
 Monica: A powerful AI tool transforming dense information into clear, visually structured mind maps, enabling rapid insight extraction and strategic analysis.
 
@@ -108,7 +109,7 @@ Monica: A powerful AI tool transforming dense information into clear, visually s
 
 ## 5. Perplexity: AI-Powered Research Engine for Deep Web Insights (Data-Driven Research Excellence)
 
-[![Perplexity Logo](https://i.imgur.com/4rZ0c7V.png)](https://www.perplexity.ai/)
+[![Perplexity Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fiaperfecta.com%2Fperplexity%2F&psig=AOvVaw1sDnAj-RbyJMyP78KWt6mD&ust=1740441812669000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjVz5KB24sDFQAAAAAdAAAAABAE)](https://www.perplexity.ai)
 
 Perplexity: An AI-driven research engine specifically designed for deep web exploration and rapid, verifiable information retrieval, ensuring data integrity and source credibility.
 
@@ -129,7 +130,7 @@ Perplexity: An AI-driven research engine specifically designed for deep web expl
 
 ## 6. Napkin: AI-Powered Diagramming for Visual Textualization (Impactful Visual Communication)
 
-[![Napkin Logo](https://napkin.ai/icons/napkin-logo.svg)](https://napkin.ai/)
+[![Napkin Logo](https://www.napkin.ai)](https://www.napkin.ai)
 
 Napkin: An innovative AI tool that dynamically transforms text into compelling diagrams, providing powerful visual representations of complex information and ideas for enhanced communication.
 
@@ -150,7 +151,7 @@ Napkin: An innovative AI tool that dynamically transforms text into compelling d
 
 ## 7. DeepL: AI-Powered Translator & Writing Enhancer (Global Communication Excellence)
 
-[![DeepL Logo](https://www.deepl.com/img/logo/logo_deepl_white.svg)](https://www.deepl.com/translator)
+[![DeepL Logo](https://www.magnolia-cms.com/dam/jcr:1782b612-0f82-4162-b006-5d2326e6188d/DeepL_logo_square.png)](https://www.deepl.com/en/translator)
 
 DeepL: Renowned for world-class AI translation accuracy and writing enhancement, unlocking seamless multilingual communication and polished content creation.
 
@@ -171,7 +172,7 @@ DeepL: Renowned for world-class AI translation accuracy and writing enhancement,
 
 ## 8. STORM: AI-Powered Academic Research Assistant (Oxford - Your Credible Research Ally for Scholarly Inquiry)
 
-[![STORM Logo](https://media.licdn.com/dms/image/C4E0BAQGwgq7459S4IA/company-logo_200_200/0/1671139954898?e=2147483648&v=beta&t=lE-R0-e-h0o8Zp_mR0gX64aV_q_Uu2aFzB99t_5b_V8)](https://storm-search.dcs.ox.ac.uk/)
+[![STORM Logo](https://media.licdn.com/dms/image/C4E0BAQGwgq7459S4IA/company-logo_200_200/0/1671139954898?e=2147483648&v=beta&t=lE-R0-e-h0o8Zp_mR0gX64aV_q_Uu2aFzB99t_5b_V8)](storm.genie.stanford.edu/)
 
 STORM (University of Oxford): Your AI-powered academic research assistant, navigating the complexities of scholarly information with credibility and citation-backed insights.
 
