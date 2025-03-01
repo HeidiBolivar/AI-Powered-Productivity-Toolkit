@@ -168,7 +168,7 @@ Perplexity: An AI-driven research engine specifically designed for deep web expl
 ## 7. [DeepSeek](https://www.deepseek.com/): Fast & Efficient AI for Quick Insights (Your Agile Information Partner for Rapid Results)
 
 <p align="center">
-    <img src="img/Deepseek.png" alt="image" style="width: 35%;">
+    <img src="img/Deepseek.jpg" alt="image" style="width: 35%;">
 </p>
 
 DeepSeek: A high-velocity AI model from China, integrated into Vivaldi, offering a fast and efficient AI partner for rapid information retrieval and immediate insights.
