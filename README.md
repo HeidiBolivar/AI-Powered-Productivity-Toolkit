@@ -214,7 +214,7 @@ Hugging Face - Chats & Assistants: Your integrated playground within Vivaldi to 
 ## 9. [DeepL](https://www.deepl.com/en/translator): AI-Powered Translator & Writing Enhancer (Global Communication Excellence)
 
 <p align="center">
-    <img src="img/DeepL_logo_square.png" alt="image" style="width: 35%;">
+    <img src="img/DeepL_logo_square.jpg" alt="image" style="width: 35%;">
 </p>
 
 DeepL: Renowned for world-class AI translation accuracy and writing enhancement, unlocking seamless multilingual communication and polished content creation.
