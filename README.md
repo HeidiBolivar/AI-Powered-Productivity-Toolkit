@@ -411,4 +411,6 @@ Monica: A powerful AI tool transforming dense information into clear, visually s
 
 **Transform Your Team's Productivity with AI. Connect Now to Explore the Toolkit's Strategic Value.**
 
-***
+Thank you 😊 for taking the time to explore 🔎 this project, it's great to see someone so engaged and curious 💡. Connect with me on [LinkedIn](https://www.linkedin.com/in/heidibolivar/) 🤝 and let's see what we can build together ✨.
+
+
